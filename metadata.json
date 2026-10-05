@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AeroScan 3D - Single-Pass Drone Video to 3D Reconstruction Studio",
+  "description": "AI-enabled photogrammetry and neural surface reconstruction system for generating metrically accurate, georeferenced 3D models and point clouds from single-pass drone video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
